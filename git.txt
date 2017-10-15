@@ -1,0 +1,9 @@
+Basic git commands
+
+git init - To initialize a git repository
+git clone- To clone the directory in your local one
+git pull - To pull the recently done changes
+git push - To push the changes made
+git stash- To clear the local changes done
+git diff - To show the changes made.
+git config - To configure the git account with the required credentials
